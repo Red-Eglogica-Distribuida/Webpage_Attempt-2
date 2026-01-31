@@ -1,6 +1,6 @@
-baseURL = 'https://adrede.eu/'
+baseURL = 'https://Adrede.eu/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'PlusRED'
 theme = 'blowfish'
 
 [caches]
