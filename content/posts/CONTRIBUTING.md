@@ -45,7 +45,6 @@ draft = true (cambiar a "false" antes de publicar)
 ```
 
 
-- quitando "draft"
 
 ⸻
 
@@ -61,7 +60,15 @@ Hacer un 'pull request' the los cambios con una descripción detallada de los mi
 
 ## Scripts disponibles
 
+```bash {class="my-class" id="my-codeblock" lineNos=inline tabWidth=2}
+hugo new content content/posts/EXAMPLE.md
 
+hugo server
+
+hugo help
+
+
+```
 
 # Flujo recomendado
 
