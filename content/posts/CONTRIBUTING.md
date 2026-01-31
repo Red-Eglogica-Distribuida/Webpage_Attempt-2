@@ -1,4 +1,13 @@
-Contributing
++++
+title = 'Contribuye a la RED'
+date = 2026-01-30T07:07:07+01:00
+draft = false
++++
+
+
+
+# Contributing
+
 
 Gracias por tu interés en contribuir a Red Eglógica Distribuida 🌱
 
@@ -6,91 +15,66 @@ Este documento explica cómo preparar el entorno, formatear el código y comprob
 
 ⸻
 
-Requisitos
-• Node.js ≥ 20
-• npm
+# Requisitos
 
-Se recomienda usar nvm para gestionar versiones de Node:
+## Programas instalados
+- git
+- go
+- hugo
+Todos ellos open source y gratuítos.
 
-nvm install 20
-nvm use 20
 
-⸻
+# Instrucciones
 
-1. Clonar el repositorio
+## 1. Clonar el repositorio
 
 git clone https://github.com/Red-Eglogica-Distribuida/web-page.git
 cd red-eglogica
 
 ⸻
 
-2. Instalar dependencias
+## 2. Hacer las contribuciones deseadas
+- En formato markdown,
+- con un preámbulo con metadata apropiada
+```bash {class="my-class" id="my-codeblock" lineNos=inline tabWidth=2}
++++
+title = 'My First Post'
+date =  2024-01-14T07:07:07+01:00 (Ejemplo formato fecha.) 
+draft = true (cambiar a "false" antes de publicar)
++++
+```
 
-npm install
 
-Esto instalará las herramientas de desarrollo necesarias (Prettier, html-validate, etc.).
-
-⸻
-
-3. Formatear el código (Prettier)
-
-El proyecto usa Prettier para mantener un estilo consistente.
-
-Qué archivos formatea Prettier
-• .css
-• .json
-• .md
-• .yml / .yaml
-
-Formatear automáticamente
-
-npm run format
-
-Comprobar formato (sin modificar archivos)
-
-npm run format:check
+- quitando "draft"
 
 ⸻
 
-4. Validar HTML
-
-El HTML se valida con html-validate.
-
-npm run html:check
-
-Este comando detecta errores reales de marcado (estructura, atributos inválidos, etc.).
+## 3. Comprobar el correcto funcionamiento de los cambios
+Ejecutar el comando 'hugo server' en la carpeta del proyecto para ver la página web localmente con los cambios implementados.
 
 ⸻
 
-5. Comprobación de enlaces (CI)
+## 4. Presentar los cambios
 
-La comprobación de enlaces se ejecuta automáticamente en GitHub Actions mediante Lychee.
-
-En local es opcional y puede hacerse si se tiene Lychee instalado (por ejemplo con Homebrew o Docker).
-
+Hacer un 'pull request' the los cambios con una descripción detallada de los mismos.
 ⸻
 
-Scripts disponibles
+## Scripts disponibles
 
-Comando Descripción
-npm run format Formatea archivos compatibles con Prettier
-npm run format:check Comprueba el formato
-npm run html:check Valida los archivos HTML
 
-Flujo recomendado
 
-# 1. Crear rama
+# Flujo recomendado
+
+## 1. Crear rama
 
 git checkout -b mi-cambio
 
-# 2. Hacer cambios
+## 2. Hacer cambios
 
-# 3. Formatear y validar
+## 3. Formatear y validar
 
-npm run format
-npm run html:check
 
-# 4. Commit y push
+## 4. Commit y push
 
 git add .
 git commit -m "Describe brevemente el cambio"
