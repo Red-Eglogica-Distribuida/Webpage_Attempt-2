@@ -21,10 +21,6 @@
   pageRef = "posts"
 
 
-[[main]]
-  name = "About"
-  weight = 1000
-  pageRef = "About"
 
 
 #[[main]]
