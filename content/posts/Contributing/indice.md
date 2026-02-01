@@ -23,4 +23,4 @@ Participa en una actividad de voluntariado ecológico.
 Organiza a la gente de tu zona que vive del bosque.
 {{< /typeit >}}
 
-{{< article link="/posts/Contributing/Web_Contributing/" showSummary=false compactSummary=false >}}<LeftMouse>
+{{< article link="/Web_Contributing/" showSummary=false compactSummary=false >}}<LeftMouse>
