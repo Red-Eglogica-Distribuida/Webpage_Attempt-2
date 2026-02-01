@@ -24,3 +24,5 @@ Organiza a la gente de tu zona que vive del bosque.
 {{< /typeit >}}
 
 {{< article link="/Web_Contributing/" showSummary=false compactSummary=false >}}<LeftMouse>
+
+[cousa]({{relref "posts/Contributing/Web_Contributing"}})
