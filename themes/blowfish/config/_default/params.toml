@@ -114,6 +114,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
 
+
+
+
 [taxonomy]
   showTermCount = true
   showHero = false

@@ -23,6 +23,6 @@ Participa en una actividad de voluntariado ecológico.
 Organiza a la gente de tu zona que vive del bosque.
 {{< /typeit >}}
 
-{{< article link="/Web_Contributing/" showSummary=false compactSummary=false >}}<LeftMouse>
+{{% article link="http://adrede.eu/posts/contributing/web_contributing/" showSummary=false compactSummary=false %}}
 
-[cousa]({{relref "posts/Contributing/Web_Contributing"}})
+[cousa]({{% relref "posts/Contributing/Web_Contributing"%}})

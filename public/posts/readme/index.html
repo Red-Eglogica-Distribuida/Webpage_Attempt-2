@@ -116,6 +116,8 @@
     
   
   
+    
+  
   
   
   
@@ -126,8 +128,8 @@
       defer
       type="text/javascript"
       id="script-bundle"
-      src="/js/main.bundle.min.39057f325e9c916d4aec63e4cb46c3f87262eee40e99b18ce326f300a72f410664d628f320fbb6ab534d1b460649cbcc7600125ce1316f2ce308ce5289f626e0.js"
-      integrity="sha512-OQV/Ml6ckW1K7GPky0bD&#43;HJi7uQOmbGM4ybzAKcvQQZk1ijzIPu2q1NNG0YGScvMdgASXOExbyzjCM5SifYm4A=="
+      src="/js/main.bundle.min.68d5060d403684454c6ee1775ae18f74d43a61ba8cdbe70486c08fe5f5adae04f103c34523991610b2c6ddd0a6272b549646dc96d2ff61d06379f4e6016fa5b0.js"
+      integrity="sha512-aNUGDUA2hEVMbuF3WuGPdNQ6YbqM2&#43;cEhsCP5fWtrgTxA8NFI5kWELLG3dCmJytUlkbcltL/YdBjefTmAW&#43;lsA=="
       data-copy="Copy"
       data-copied="Copied"></script>
   
@@ -212,6 +214,22 @@
     
     "mainEntityOfPage": "true",
     "wordCount": "2"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+            "@type": "ListItem",
+            "position":  1 ,
+            "name": "Posts",
+            "item": "http://localhost:1313/posts/"
+          },{
+        "@type": "ListItem",
+        "position":  2 ,
+        "name": "",
+        "item": "http://localhost:1313/posts/readme/"
+      }
+    ]
   }]
   </script>
 
@@ -262,7 +280,13 @@
     </div>
     
     
-      <div class="main-menu flex items-center w-full gap-2 p-1 pl-0">
+      <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 z-100">
+  <div
+    id="menu-blur"
+    class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl backdrop-saturate-220 backdrop-brightness-112 dark:backdrop-saturate-180 dark:backdrop-brightness-95 bg-primary-200/50 bg-linear-65 dark:from-neutral-900/88 dark:via-neutral-800/72 dark:to-neutral-900/55 shadow-xl"></div>
+  <div class="relative m-auto leading-7 max-w-7xl px-6 sm:px-14 md:px-24 lg:px-32">
+    <div class="main-menu flex items-center w-full gap-2 p-1 pl-0">
   
   
     <a href="/" class="text-base font-medium truncate min-w-0 shrink">
@@ -359,6 +383,15 @@
 
 
 
+  </div>
+</div>
+
+
+<script
+  type="text/javascript"
+  src="/js/background-blur.min.00a57c73ea12f2cab2980c3c3d649e89f6d82f190f74bbe2b67f2f5e39ab7d032ece47086400ca05396758aace13299da49aca43ea643d2625e62c506267a169.js"
+  integrity="sha512-AKV8c&#43;oS8sqymAw8PWSeifbYLxkPdLvitn8vXjmrfQMuzkcIZADKBTlnWKrOEymdpJrKQ&#43;pkPSYl5ixQYmehaQ=="
+  data-blur-id="menu-blur"></script>
     
     <div class="relative flex flex-col grow">
       <main id="main-content" class="grow">
@@ -370,6 +403,37 @@
 
     
     <header id="single_header" class="mt-5 max-w-prose">
+      
+        <ol class="text-sm text-neutral-500 dark:text-neutral-400 print:hidden">
+  
+  
+    
+  
+    
+  
+  <li class="hidden">
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/"
+      >Únete á REDe!</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="inline">
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/posts/"
+      >Posts</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+  
+  <li class="hidden">
+    <a class="hover:underline decoration-neutral-300 dark:underline-neutral-600" href="/posts/readme/"
+      >posts</a
+    ><span class="px-1 text-primary-500">/</span>
+  </li>
+
+</ol>
+
+
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
         

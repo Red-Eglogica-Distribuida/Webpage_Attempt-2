@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My First Post on PlusRED</title>
+    <title>Únete á REDe! on PlusRED</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in My First Post on PlusRED</description>
+    <description>Recent content in Únete á REDe! on PlusRED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Fri, 30 Jan 2026 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jan 2026 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contribuye a la RED</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 31 Jan 2026 07:07:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;A REDe (Red Eglógica Distribuída) nace a partir dos lumes que cada ano están a deixar máis vítimas no noso país.&lt;/p&gt;&#xA;&lt;p&gt;Este é un intento de organización cidadá, polo tanto, descentralizado, para contribuír a remediar esta situación.&lt;/p&gt;&#xA;&lt;p&gt;Somos un grupo informal que pretende axudar a coordinar e difundir o traballo que voluntarios, gobernos, particulares e científicos están a facer no noso país;&#xA;ademais de intentarmos achegar este proceso aos traballadores de rural, que malia coñenceren o monte de primeira man, tenden a seren ignorados nesta proceso.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Contribuye a la RED</title>
@@ -55,7 +65,7 @@
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       
       <guid>http://localhost:1313/posts/contributing/indice/</guid>
-      <description>&lt;div id=&#34;typeit-16ec1f8063c6beed1c54a9b92c479ad8&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;script&gt;&#xA;    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {&#xA;      new TypeIt(&#34;#typeit-16ec1f8063c6beed1c54a9b92c479ad8&#34;, {&#xA;        strings: [&#34;&#34;,&#34;¿Cómo puedes contribuír a mejorar nuestros bosques?&#34;,&#34;&#34;],&#xA;        speed:  100 ,&#xA;        lifeLike:  false ,&#xA;        startDelay:  0 ,&#xA;        breakLines:  true ,&#xA;        waitUntilVisible:  true ,&#xA;        loop:  false &#xA;      }).go();&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;&lt;h3 id=&#34;typeit-ddd7e46178c755b7e2f7c20a0b1e9685&#34;&gt;&lt;/h3&gt;&#xA;&#xA;&lt;script&gt;&#xA;    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {&#xA;      new TypeIt(&#34;#typeit-ddd7e46178c755b7e2f7c20a0b1e9685&#34;, {&#xA;        strings: [&#34;&#34;,&#34;Difunde contenido online sobre prácticas de prevención de incendios y promoción de biodiversidad.&#34;,&#34;Haz senderismo; recogiendo basura y gravando nuevos senderos.&#34;,&#34;Únete a la RED.&#34;,&#34;Participa en una actividad de voluntariado ecológico.&#34;,&#34;Organiza a la gente de tu zona que vive del bosque.&#34;,&#34;&#34;],&#xA;        speed:  50 ,&#xA;        lifeLike:  false ,&#xA;        startDelay:  0 ,&#xA;        breakLines:  false ,&#xA;        waitUntilVisible:  true ,&#xA;        loop:  true &#xA;      }).go();&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;&#xA;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>&lt;div id=&#34;typeit-16ec1f8063c6beed1c54a9b92c479ad8&#34;&gt;&lt;/div&gt;&#xA;&#xA;&lt;script&gt;&#xA;    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {&#xA;      new TypeIt(&#34;#typeit-16ec1f8063c6beed1c54a9b92c479ad8&#34;, {&#xA;        strings: [&#34;&#34;,&#34;¿Cómo puedes contribuír a mejorar nuestros bosques?&#34;,&#34;&#34;],&#xA;        speed:  100 ,&#xA;        lifeLike:  false ,&#xA;        startDelay:  0 ,&#xA;        breakLines:  true ,&#xA;        waitUntilVisible:  true ,&#xA;        loop:  false &#xA;      }).go();&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;&lt;h3 id=&#34;typeit-ddd7e46178c755b7e2f7c20a0b1e9685&#34;&gt;&lt;/h3&gt;&#xA;&#xA;&lt;script&gt;&#xA;    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {&#xA;      new TypeIt(&#34;#typeit-ddd7e46178c755b7e2f7c20a0b1e9685&#34;, {&#xA;        strings: [&#34;&#34;,&#34;Difunde contenido online sobre prácticas de prevención de incendios y promoción de biodiversidad.&#34;,&#34;Haz senderismo; recogiendo basura y gravando nuevos senderos.&#34;,&#34;Únete a la RED.&#34;,&#34;Participa en una actividad de voluntariado ecológico.&#34;,&#34;Organiza a la gente de tu zona que vive del bosque.&#34;,&#34;&#34;],&#xA;        speed:  50 ,&#xA;        lifeLike:  false ,&#xA;        startDelay:  0 ,&#xA;        breakLines:  false ,&#xA;        waitUntilVisible:  true ,&#xA;        loop:  true &#xA;      }).go();&#xA;    });&#xA;&lt;/script&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/contributing/web_contributing/&#34; &gt;cousa&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
