@@ -6,3 +6,8 @@ theme = 'blowfish'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.link]
+        useEmbedded = 'auto'
