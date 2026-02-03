@@ -7,4 +7,9 @@ draft = false
 
 info@montescola.org
 
-    {{< icon "instagram" >}}[instagram](https://www.instagram.com/montescola/)
+   
+
+
+
+[ {{< icon "instagram" >}} ](https://www.instagram.com/montescola/)
+
