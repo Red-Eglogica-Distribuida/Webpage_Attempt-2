@@ -19,13 +19,16 @@ Todos ellos open source y gratuítos.
 # Instrucciones
 
 ## 1. Clonar el repositorio
-
+```bash {class="my-class" id="my-codeblock" lineNos=inline tabWidth=2}
 git clone https://github.com/Red-Eglogica-Distribuida/web-page.git
 cd red-eglogica
-
+```
 ⸻
 
 ## 2. Hacer las contribuciones deseadas
+- Añadir/Modificar el documento en el folder content
+  - Posts, si se tratare de un artículo
+  - en Wiki, si se tratare de una organización/iniciativa no recogida/alterada.
 - En formato markdown,
 - con un preámbulo con metadata apropiada
 ```bash {class="my-class" id="my-codeblock" lineNos=inline tabWidth=2}
