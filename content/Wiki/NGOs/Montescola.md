@@ -11,5 +11,5 @@ info@montescola.org
 
 
 
-[ {{< icon "instagram" >}} ](https://www.instagram.com/montescola/)
+[{{< icon "instagram" >}}](https://www.instagram.com/montescola/)
 
