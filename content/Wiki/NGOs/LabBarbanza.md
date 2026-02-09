@@ -23,7 +23,7 @@ O Laboratorio Ecosocial do Barbanza é unha iniciativa da Fundación RIA e do gr
 
 {{< alert icon="search" cardColor="#061A00" iconColor="#f1faee" textColor="#f1faee" >}}  
 **Lugar** :: [O Barbanza](https://gl.wikipedia.org/wiki/Comarca_de_Barbanza), Galicia, España.  
-**Corpos** ::  [Fundación RIA]({{% relref "posts/Contributing/Web_Contributing"%}}) e grupo de investigación [Histagra]({{% relref "posts/Contributing/Web_Contributing"%}}) da USC.  
+**Corpos** ::  [Fundación RIA]({{% relref "Wiki/NGOs/FundacionRIA"%}}) e grupo de investigación [Histagra]({{% relref "Wiki/Research/USC-Histagra"%}}) da USC.  
 **Financiación** ::    
 **Dende** :: 2020  
 {{< /alert >}}
