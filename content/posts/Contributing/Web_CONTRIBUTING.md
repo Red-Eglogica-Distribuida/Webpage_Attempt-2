@@ -7,7 +7,7 @@ showTableOfContents = true
 
 
 
-# Contributing
+## Contributing
 
 
 Gracias por tu interés en contribuir a Red Eglógica Distribuida 🌱
@@ -16,25 +16,25 @@ Este documento explica cómo preparar el entorno, formatear el código y comprob
 
 ⸻
 
-# Requisitos
+## Requisitos
 
-## Programas instalados
+### Programas instalados
 - git
 - go
 - hugo
 Todos ellos open source y gratuítos.
 
 
-# Instrucciones
+## Instrucciones
 
-## 1. Clonar el repositorio
+### 1. Clonar el repositorio
 ```bash {class="my-class" id="my-codeblock" lineNos=inline tabWidth=2}
 git clone https://github.com/Red-Eglogica-Distribuida/web-page.git
 cd red-eglogica
 ```
 ⸻
 
-## 2. Hacer las contribuciones deseadas
+### 2. Hacer las contribuciones deseadas
 - Añadir/Modificar el documento en el folder content
   - Posts, si se tratare de un artículo
   - en Wiki, si se tratare de una organización/iniciativa no recogida/alterada.
@@ -52,17 +52,17 @@ draft = true (cambiar a "false" antes de publicar)
 
 ⸻
 
-## 3. Comprobar el correcto funcionamiento de los cambios
+### 3. Comprobar el correcto funcionamiento de los cambios
 Ejecutar el comando 'hugo server' en la carpeta del proyecto para ver la página web localmente con los cambios implementados.
 
 ⸻
 
-## 4. Presentar los cambios
+### 4. Presentar los cambios
 
 Hacer un 'pull request' the los cambios con una descripción detallada de los mismos.
 ⸻
 
-## Scripts disponibles
+### Scripts disponibles
 
 ```bash {class="my-class" id="my-codeblock" lineNos=inline tabWidth=2}
 hugo new content content/posts/EXAMPLE.md
@@ -75,18 +75,18 @@ hugo help
 ```
 
 
-# Flujo recomendado
+## Flujo recomendado
 
-## 1. Crear rama
+### 1. Crear rama
 
 git checkout -b mi-cambio
 
-## 2. Hacer cambios
+### 2. Hacer cambios
 
-## 3. Formatear y validar
+### 3. Formatear y validar
 
 
-## 4. Commit y push
+### 4. Commit y push
 
 git add .
 git commit -m "Describe brevemente el cambio"
