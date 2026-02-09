@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grupos e Institutos de Investigación on PlusRED</title>
+    <link>http://localhost:1313/wiki/research/</link>
+    <description>Recent content in Grupos e Institutos de Investigación on PlusRED</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Wed, 14 Jan 2026 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/wiki/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Histagra (USC)</title>
+      <link>http://localhost:1313/wiki/research/usc-histagra/</link>
+      <pubDate>Wed, 14 Jan 2026 07:07:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/wiki/research/usc-histagra/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
