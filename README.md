@@ -30,6 +30,7 @@ cd red-eglogica
   - Posts, si se tratare de un artículo
   - en Wiki, si se tratare de una organización/iniciativa no recogida/alterada.
 - En formato markdown,
+  - **NO USAR LOS NOMBRES 'index.md' NI '_index.md', ya que son nombres especiales para hugo. Cualquier otro nombre (no repetido) es apto. 
 - con un preámbulo con metadata apropiada
 ```bash {class="my-class" id="my-codeblock" lineNos=inline tabWidth=2}
 +++
