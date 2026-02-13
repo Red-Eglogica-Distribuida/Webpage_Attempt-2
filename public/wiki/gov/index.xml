@@ -5,9 +5,19 @@
     <link>http://localhost:1313/wiki/gov/</link>
     <description>Recent content in Axencias Guvernamentais on PlusRED</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/wiki/gov/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate><atom:link href="http://localhost:1313/wiki/gov/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/wiki/gov/hello_world/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/wiki/gov/hello_world/</guid>
+      <description>&lt;p&gt;This is just a test!&lt;/p&gt;</description>
+      
+    </item>
     
   </channel>
 </rss>
